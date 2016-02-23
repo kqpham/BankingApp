@@ -1,0 +1,43 @@
+Bank Name         : Seneca@York
+Number of Accounts: 6
+
+
+Full Name: Kevin Pham
+Account Number: 123456
+Balance: 356.0
+Annual Interest Rate: 0.0126
+
+
+Full Name: Soutrik Baruah
+Account Number: 23697
+Balance: 569.25
+Annual Interest Rate: 0.019
+
+
+Full Name: Kevin Pham
+Account Number: 123457
+Balance: 98.96
+Service Charge: 0.2
+Max Transactions: 25
+
+
+Full Name: Faiq Malik
+Account Number: 457892
+Balance: 239.89
+Service Charge: 0.15
+Max Transactions: 24
+
+
+Full Name: Faiq Malik
+Account Number: 456987
+Balance: 2563.56
+Investment Period: 12
+Annual Interest Rate: 0.04
+
+
+Full Name: Isaac Clarke
+Account Number: 987632
+Balance: 3697.89
+Investment Period: 36
+Annual Interest Rate: 0.04
+
